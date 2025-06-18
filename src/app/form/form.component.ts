@@ -26,7 +26,7 @@ export class FormComponent {
     });
   }
 
-  ngInit() {
+  ngOnInit() {
 
   }
 
